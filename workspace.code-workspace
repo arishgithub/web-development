@@ -1,0 +1,50 @@
+{
+	"folders": [
+		{
+			"path": "CSS - My Site"
+		},
+		{
+			"path": "DOM Challenge Starting Files"
+		},
+		{
+			"path": "Dicee Challenge - Starting Files"
+		},
+		{
+			"path": "Drum Kit Starting Files"
+		},
+		{
+			"path": "jQuery"
+		},
+		{
+			"path": "Simon Game Challenge Starting Files"
+		},
+		{
+			"path": "WeatherProject"
+		},
+		{
+			"path": "Newsletter-Signup"
+		},
+		{
+			"path": "todolist-v1"
+		},
+		{
+			"path": "ejs-challenge"
+		},
+		{
+			"path": "FruitsProject"
+		},
+		{
+			"path": "todolist-v2-starting-files"
+		},
+		{
+			"path": "Wiki-API"
+		},
+		{
+			"path": "Secrets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Newsletter-Signup",
+		"editor.fontSize": 22
+	}
+}
